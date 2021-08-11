@@ -94,7 +94,7 @@ html {
 }
  /* Hero */
  .section-hero {
-    background-image: url('/img/hero.jpg');
+    background-image: url('../img/hero.jpg');
     background-repeat: no-repeat;
     background-size: contain;
     background-color: white;
@@ -133,7 +133,7 @@ html {
     display: inline-block;
     width: 13px;
     height: 17px;
-    background-image: url('/img/ssl.svg');
+    background-image: url('../img/ssl.svg');
     background-size: contain;
     background-position: center center;
     background-repeat: no-repeat;
@@ -286,14 +286,14 @@ html {
     background-color: transparent;
 }
 .section-contacts-icon-gps {
-    background-image: url('/img/gps.png') ;
+    background-image: url('../img/gps.png') ;
 }
 .section-contacts-icon-phone {
-    background-image: url('/img/phone.png') ;
+    background-image: url('../img/phone.png') ;
 
 }
 .section-contacts-icon-mail {
-    background-image: url('/img/mail.png') ;
+    background-image: url('../img/mail.png') ;
     background-size: auto 19px;
 }
 
@@ -372,18 +372,18 @@ html {
     background-position: center center;
 }
 .footer-social-icon-twitter {
-    background-image: url('/img/twitter.svg');
+    background-image: url('../img/twitter.svg');
     width: 18px;
     height: 15px;
 }
 .footer-social-icon-in {
-    background-image: url('/img/in.svg');
+    background-image: url('../img/in.svg');
     width: 18px;
     height: 19px;
     transform: translateY(-2px);
 }
 .footer-social-icon-mail {
-    background-image: url('/img/mail.svg');
+    background-image: url('../img/mail.svg');
     width: 24px;
     height: 17px;
 }
